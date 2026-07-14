@@ -1,6 +1,6 @@
 FUNCTION Main() 
 
-   QQout("linha 1 ") //pula linha ao final 
+   Qjt("linha 1 ") //pula linha ao final 
    QQout("Sem") //nao pula 
    QQout("pular linha ")  
 
