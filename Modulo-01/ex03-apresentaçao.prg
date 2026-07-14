@@ -6,7 +6,7 @@ function main()
     local cCurso:="harbor/ADVPL" 
 
      //uso das variaveis
- 
+
    Qout("====================================")
    Qout("=======Ficha de Apresenta‡ao========")
    Qout("====================================")    
