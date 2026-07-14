@@ -6,7 +6,7 @@ function main()
     local cCurso:="harbor/ADVPL" 
     local dData:=Dtoc(date())
     local dHora:=time()
-    
+     
    Set date format to "dd/mm/yyyy" //seta da data em dia,mes e ano  
 
    dData:=Dtoc(date())  //processa o comando 
