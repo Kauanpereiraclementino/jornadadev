@@ -13,7 +13,6 @@ function main()
 
 
      //uso das variaveis
-
    Qout("====================================")
    Qout("=======Ficha de Apresentaçao========")
    Qout("====================================")    
