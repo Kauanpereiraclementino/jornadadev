@@ -8,7 +8,7 @@ FUNCTION Main ()
 
     Qout("Texto: " + cTexto)
     Qout("Numero: " + Alltrim(str(nNumero)))
-    Qout("Data: " + DtoC(dData))
+    Qout("Data: " + DtoC(dData))a
     
 
 RETURN NIL

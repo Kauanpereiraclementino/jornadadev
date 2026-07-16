@@ -9,6 +9,6 @@ FUNCTION Main()
    // INPUT lê um valor (número, string, data, lógico)
    INPUT "Digite numero: " TO nNumero
 
-   QOut("total da soma" + AllTrim(Str(nNumero + nNumero2)))
+   QOut("total da soma" + AllTrim(Str(nNumero + nNumero2)))a
 
 RETURN NIL
