@@ -6,11 +6,10 @@ CADASTRO C:\Users\kauan clementino\jornadadev\Modulo-07\evidencias\TABELA DOS CA
 
 # b. Force o reconhecimento da tabela pelo framework
 
-Dados da tabela  C:\Users\kauan clementino\jornadadev\Modulo-07\evidencias\DADOS DA TABELA.png
+Dados da tabela  
 
 
 # c. Confira a estrutura final no MPSDU.
  estrutura final 
- (C:\Users\kauan clementino\jornadadev\Modulo-07\evidencias\tela mpsdu.png)
- (C:\Users\kauan clementino\jornadadev\Modulo-07\evidencias\TELA MPSDU2.png)
+ 
 

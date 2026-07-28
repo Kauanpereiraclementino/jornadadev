@@ -1,6 +1,5 @@
 ## Exercício 1 — Conceitos fundamentais
 
-
 # A. Qual é a função do AppServer? 
  ele é o servidor que processa o codigo e conversa com o banco de dados 
 

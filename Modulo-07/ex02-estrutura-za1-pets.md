@@ -1,5 +1,6 @@
 # Exercício 2 — A tabela ZA1 (Pets) que criamos em aula
 
+
 # A. Liste os campos da ZA1 (nome do campo, tipo, tamanho) — incluindo o campo de filial,que é obrigatório em toda tabela do Protheus.
 nome:ZA1_Fiial, ZA1_Nome, ZA1_RACA,ZA1_DATA_N
 tipo:caracter,caracter,CARACTER,DATA 
