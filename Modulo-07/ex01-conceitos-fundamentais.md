@@ -1,9 +1,9 @@
 ## Exercício 1 — Conceitos fundamentais
 
-# A. Qual é a função do AppServer? 
+## A. Qual é a função do AppServer? 
  ele é o servidor que processa o codigo e conversa com o banco de dados 
 
-# B. O que é o RPO?
+## B. O que é o RPO?
  É o repositorio compilado que armazena todas as rotinas ,programas e telas do sistema 
 
 # C. Para que serve o Configurador (SIGACFG)?

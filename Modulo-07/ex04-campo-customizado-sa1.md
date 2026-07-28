@@ -1,6 +1,6 @@
 # Exercício 4 — Campo customizado na SA1
 
-# a. Defina tipo, tamanho e título do campo no Configurado
+## a. Defina tipo, tamanho e título do campo no Configurado
 
 tipo:caracter 
 tamanho 50
