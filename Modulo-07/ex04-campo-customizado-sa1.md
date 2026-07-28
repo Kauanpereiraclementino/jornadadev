@@ -9,4 +9,4 @@ titulo:A1_XAPELID
 
 # b. Volte ao SmartClient e mostre que o campo aparece na tela — sem escrever nenhuma linha de código.
 
-![telamodificada](evidencias/apelidocliente.png)
+![telamodificada](evidencias/Apelido%20Cliente.png)
