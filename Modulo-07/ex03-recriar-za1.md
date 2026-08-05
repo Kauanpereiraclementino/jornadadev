@@ -4,7 +4,7 @@
 
 CADASTRO ![Tabela](evidencias/Tabela%20cachorro.png)
 
-## b. Force o reconhecimento da tabela pelo framework
+## b. Force o reconhecimento da tabela pelo framework.
 
 Dados da tabela  ![Dados da tabela](evidencias/Dados%20da%20Tabela.png)
 
