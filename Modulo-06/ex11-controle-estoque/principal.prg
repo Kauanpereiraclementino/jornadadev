@@ -3,7 +3,7 @@ FUNCTION Main()
    set procedure to estoque_lib.prg 
 
 
-   LOCAL aProdutos := {}
+   LOCAL aProdutos := {} 
    LOCAL nOpcao
 
    DO WHILE .T.

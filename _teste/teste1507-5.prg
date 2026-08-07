@@ -9,7 +9,7 @@ FUNCTION Main()
 
    nA=val(cA)
    nB=val(cB)
-   QOut("O valor da soma �: " + AllTrim(Str(nA + nB)))a
+   QOut("O valor da soma �: " + AllTrim(Str(nA + nB)))
    QOut("o valor da sua subtracao �:" + AllTrim(Str(nA - nB)))
    QOut("o valor da sua multiplica�ao :" + AllTrim(Str(nA * nB)))
        IF nB <> 0

@@ -9,6 +9,6 @@ FUNCTION Main()
    INPUT "Digite sua idade: " TO nIdade
 
    QOut("Olá, " + cNome + "!")
-   QOut("Você tem " + Alltrim(Str(nIdade)) + " anos.")a
+   QOut("Você tem " + Alltrim(Str(nIdade)) + " anos.")
 
 RETURN NIL

@@ -17,5 +17,5 @@ function main()
     Qout("o area do circulo é:" + Str(pi * (nR ^ 2 ),10,2))
     Qout("A hipotesuna do quadrado é: "+ str(sqrt((nA^2)+(nB^2)),10,2))
     Qout("seu imc é: " + str(nPeso/(nAltura ^ 2)))
-    
+
 return nil
