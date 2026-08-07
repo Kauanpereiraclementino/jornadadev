@@ -8,7 +8,8 @@ Function main()
      local nCodigo:=23
 
 
-    Set date British
+    
+     Set date British
     
     dAdimi:=ctod("20/09/2024")
 

@@ -14,6 +14,7 @@ function main()
     input "Digite seu peso: " to nPeso
     input "Digite sua altura " to nAltura 
    
+    
     Qout("o area do circulo é:" + Str(pi * (nR ^ 2 ),10,2))
     Qout("A hipotesuna do quadrado é: "+ str(sqrt((nA^2)+(nB^2)),10,2))
     Qout("seu imc é: " + str(nPeso/(nAltura ^ 2)))
